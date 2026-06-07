@@ -1,72 +1,110 @@
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
-# Hi 👋 I'm Arefe Salehi
+# Hi 👋 I'm Mohammad Amin Saeedi Rad
 
-Frontend Developer | React Developer
+![Profile Views](https://komarev.com/ghpvc/?username=amin-saeedi&label=Profile%20views&color=0e75b6&style=flat)
 
-I build responsive and user-friendly web applications using modern frontend technologies.
+## 🚀 MERN Stack Developer | React & Next.js Enthusiast
+
+I’m a Full-Stack JavaScript Developer focused on building **scalable, responsive, and user-friendly web applications** using modern web technologies.
+
+I enjoy turning ideas into real-world products with clean architecture, reusable components, and performance-focused development.
 
 ---
 
 ## ⚡ About Me
-Frontend developer focused on building clean, scalable UI with React and modern JavaScript.  
-Experienced in turning UI/UX designs into real, functional web applications through hands-on projects.
+
+- 🌍 Based in Delhi-NCR (India)  
+- 🧠 Currently improving Next.js & advanced React patterns  
+- 🤝 Open to collaboration on MERN / React projects  
+- 💡 Focused on full-stack web applications with MongoDB & Node.js  
+- ⚡ Passionate about building production-ready web apps  
 
 ---
 
 ## 🛠️ Tech Stack
-React • JavaScript • Next.js • HTML • CSS • Tailwind css • Git • TypeScript • Websocket
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,redux" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🟢 Learning Management System (Next.js + MongoDB)
-Full-stack educational platform with user and admin panels  
-- Authentication & role-based access (User / Admin)  
-- Course management system  
-- MongoDB backend with custom API  
-- Responsive and scalable architecture  
+### 🟢 Learning Management System (MERN Stack)
+Full-stack education platform with user & admin panel  
+- Authentication (JWT-based)  
+- Role-based access control  
+- Admin dashboard for managing courses  
+- RESTful API with Node.js & MongoDB  
 
 ---
 
-🟢 Corporate Educational Website (Next.js + Custom Backend)
-Modern company website with full backend integration  
-- Built backend from scratch using Node.js & MongoDB  
-- Authentication system with protected routes  
-- Admin dashboard for content and user management  
-- Optimized for performance and SEO  
+### 🟢 Corporate / Educational Platform (Next.js + Node.js)
+Full-stack production-style web application  
+- Built custom backend with MongoDB  
+- Secure authentication system  
+- Admin + user management panel  
+- SEO optimized frontend  
 
 ---
 
-🟢 E-Commerce Platform
-Full-featured online shop system  
-- Product listing, cart, and checkout flow  
+### 🟢 E-Commerce Web App
+Modern shopping platform  
+- Product listing & cart system  
 - User authentication  
-- Admin panel for product & order management  
-- Responsive UI with clean UX  
+- Admin panel for product management  
+- Responsive UI  
 
 ---
 
-🟢 Telegram Web App (Redux + WebSocket)
-Real-time messaging interface inspired by Telegram  
-- State management with Redux  
-- Real-time communication using WebSocket  
-- Chat system with dynamic updates  
-- Admin panel for user/message control
+### 🟢 Telegram-like Web App (React + Redux + WebSocket)
+Real-time chat application  
+- WebSocket-based messaging  
+- Redux state management  
+- Live updates & chat system  
+- Admin control panel  
 
 ---
 
-## 📡 Currently
-- Next.js
-- WebSocket (real-time apps)
-- Advanced React patterns
+## 📡 Currently Working On
+
+- Advanced Next.js architecture (SSR, routing, performance)  
+- Real-time applications using WebSocket  
+- Scalable backend systems with Node.js & MongoDB  
+- Improving system design skills  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: ce01010101it@gmail.com  
+- 🌍 Portfolio: http://sabzlearn.ir/  
+- 📍 Location: Delhi-NCR, India  
+
+---
+
+## ⚡ Developer Mindset
+
+> “I focus on building real-world applications that are scalable, maintainable, and user-centered.”
 
 ---
 
 ## 🤝 Open To Work
-Frontend Developer roles | React projects | Startup opportunities
 
----
-
-
+✔ MERN Stack Developer roles  
+✔ Frontend / React Developer positions  
+✔ Full-stack web development opportunities  
+✔ Startup & product-based collaborations  
