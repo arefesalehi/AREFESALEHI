@@ -1,40 +1,72 @@
-# من کی‌ ام؟ 👨‍💻
+# Hi 👋 I'm Arefe Salehi
 
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+Frontend Developer | React Developer
 
-<h2 align="center">سلام 🖐 من عارفه صالحی هستم</h2>
-<p align="center">
-  برنامه نویس فرانت اند 🖥 مدرس برنامه نویسی ❤️ فارغ التحصیل ارشد رشته مهندسی فناوری اطلاعات گرایش تجارت الکترونیک 👨‍💻 و عاشق دنیای صفر و یک ✌️
-</p>
+I build responsive and user-friendly web applications using modern frontend technologies.
 
-<br />
+---
 
-<h2 align"right">ابزار هایی که استفاده می‌کنم 💪</h2>
+## ⚡ About Me
+Frontend developer focused on building clean, scalable UI with React and modern JavaScript.  
+Experienced in turning UI/UX designs into real, functional web applications through hands-on projects.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+---
 
-<br />
+## 🛠️ Tech Stack
+React • JavaScript • Next.js • HTML • CSS • Tailwind css • Git • TypeScript • Websocket
 
-<h2 align="right">تماس با من 📞</h2>
-<a href="https://instagram.com/arefesalehi"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
-<a href="https://t.me/arefesalehi"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
+---
 
-<br />
+## 🚀 Featured Projects
 
-<h2 align="right">الان به چه کار هایی مشغول هستم 🌚</h2>
+🟢 Learning Management System (Next.js + MongoDB)
+Full-stack educational platform with user and admin panels  
+- Authentication & role-based access (User / Admin)  
+- Course management system  
+- MongoDB backend with custom API  
+- Responsive and scalable architecture  
 
- <h3 align="right">🌟آیادگیری وب سوکت</h3>
- <h3 align="right">🌟 تولید محتوا</h3>
- <h3 align="right">🌟 توسعه فرانت‌اند سایت </h3>
+---
 
-<br />
+🟢 Corporate Educational Website (Next.js + Custom Backend)
+Modern company website with full backend integration  
+- Built backend from scratch using Node.js & MongoDB  
+- Authentication system with protected routes  
+- Admin dashboard for content and user management  
+- Optimized for performance and SEO  
 
-<h2 align="right">الان دارم با اینا کار می‌کنم 👨‍💻</h2>
+---
 
-<h3 align="left">🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+🟢 E-Commerce Platform
+Full-featured online shop system  
+- Product listing, cart, and checkout flow  
+- User authentication  
+- Admin panel for product & order management  
+- Responsive UI with clean UX  
 
-<br />
+---
 
-<h3 align="left">🖥 React Js | 90%</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+🟢 Telegram Web App (Redux + WebSocket)
+Real-time messaging interface inspired by Telegram  
+- State management with Redux  
+- Real-time communication using WebSocket  
+- Chat system with dynamic updates  
+- Admin panel for user/message control
 
-<h3 align="left">🖥 Next Js | 90%</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+---
+
+## 📡 Currently
+- Next.js
+- WebSocket (real-time apps)
+- Advanced React patterns
+
+---
+
+## 🤝 Open To Work
+Frontend Developer roles | React projects | Startup opportunities
+
+---
+
+## 📫 Contact
+Arefesalehi.it@gmail.com
+
