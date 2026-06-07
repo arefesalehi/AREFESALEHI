@@ -1,12 +1,12 @@
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
-# Hi 👋 I'm Mohammad Amin Saeedi Rad
+# Hi 👋 I'm Arefe Salehi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amin-saeedi&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🚀 MERN Stack Developer | React & Next.js Enthusiast
+## 🚀Front End Developer | React & Next.js Enthusiast
 
-I’m a Full-Stack JavaScript Developer focused on building **scalable, responsive, and user-friendly web applications** using modern web technologies.
+I’m a FrontEnd Developer focused on building **scalable, responsive, and user-friendly web applications** using modern web technologies.
 
 I enjoy turning ideas into real-world products with clean architecture, reusable components, and performance-focused development.
 
