@@ -1,6 +1,6 @@
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
-# Hi 🙋‍♂️ I'm Arefe Salehi
+## Hi 🙋‍♂️ I'm Arefe Salehi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amin-saeedi&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -26,12 +26,12 @@ I enjoy turning ideas into real-world products with clean architecture, reusable
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,redux,tailwindcss,typescript,websocket" />
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
 
 ### Tools
@@ -45,14 +45,7 @@ I enjoy turning ideas into real-world products with clean architecture, reusable
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/behance.svg" width="32" height="32" /></a>
 </p>
-
-### Support Me
-
-<a href="">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-</a>
 
 ---
 
